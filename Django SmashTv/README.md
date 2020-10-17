@@ -1,8 +1,6 @@
 Screenshots
 
-<img src="Screenshot from 2020-10-10 15-14-39.png" height="30%" width="30%"/>  
-<img src="Screenshot from 2020-10-10 15-15-46.png" height="30%" width="30%"/> 
-<img src="Screenshot from 2020-10-10 15-16-47.png" height="30%" width="30%"/>
+<img src="Screenshot from 2020-10-10 15-14-39.png" height="30%" width="30%"/>  <img src="Screenshot from 2020-10-10 15-15-46.png" height="30%" width="30%"/> <img src="Screenshot from 2020-10-10 15-16-47.png" height="30%" width="30%"/>
 <img src="Screenshot from 2020-10-10 15-17-06.png" height="30%" width="30%"/>
 <img src="Screenshot from 2020-10-10 15-17-19.png" height="30%" width="30%"/>
 <img src="Screenshot from 2020-10-10 15-17-34.png" height="30%" width="30%"/>
